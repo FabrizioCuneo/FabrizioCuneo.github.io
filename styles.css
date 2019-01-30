@@ -1,6 +1,6 @@
 
 body {
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Montserrat', sans-serif;
 
 }
 a.navbar-brand img {
@@ -13,7 +13,7 @@ a.navbar-brand img {
     background-position: center;
     height: 600px;
     padding-top: 70px;
-    color: darkgreen;
+    color: black;
 }
 .jumbotron h1 {
     font-size: 36px;
